@@ -89,7 +89,7 @@ function Resume() {
                         </li>
                         <li>
                             <span className="fa-li"><i className="fas fa-check"></i></span>
-                            Firebase
+                            Firebase database
                         </li>
                         <li>
                             <span className="fa-li"><i className="fas fa-check"></i></span>
