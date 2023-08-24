@@ -27,11 +27,12 @@ function Resume() {
             <section className="resume-section" id="about">
                 <div className="resume-section-content">
                     <h1 className="mb-0">
-                        Muhammad
-                        <span className="text-primary">Waqas</span>
+                        Muhammad &nbsp;
+                        <span className="text-primary"> Waqas</span>
                     </h1>
                     <div className="subheading mb-5">
-                        · 03102604311 ·
+                        . shah Faisal Colony colony
+                        · 03102604311 &nbsp;·
                         <a href="mailto:wm66179@gmail.com">waqas@gmail.com</a>
                     </div>
                     <p className="lead mb-5">MERN Stack Developer with a Passion for Creating Beautiful Web & Mobile Apps.</p>
